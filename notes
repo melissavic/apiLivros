@@ -1,0 +1,11 @@
+get: buscar pelo livro 
+
+json:
+ nome do livro
+ descrição 
+ preço 
+ foto da capa 
+
+ * Exibir o total de livros encontrados com a busca do cliente
+
+ 
